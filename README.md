@@ -19,7 +19,7 @@ Appium Automation project to run native android using cucumber.
 
 Follow the below commands -
 
-- Clone the project - `git@github.com:icearun1/appium-wdiov6-cucumber-automation.git`.
+- Clone the project - `git@github.com:luiz-arun/appium-wdiov6-ui-automation.git`.
 
 - Install dependencies using `npm i` in the terminal.
 
